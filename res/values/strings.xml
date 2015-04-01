@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">삼성화재 플레이어</string>
+    <string name="ok">확인</string>
+    <string name="alert">단독으로 실행할 수 없습니다.\n스마트포탈을 통해 재생이 가능합니다.\n앱을 종료합니다.</string>
+
+</resources>
